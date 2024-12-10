@@ -1,0 +1,7 @@
+Código: https://github.com/leoappio/VisaoComputacional
+
+Notebook: https://colab.research.google.com/drive/1yLK29MrbjeaVnyRWCYUdz8j1yw3n9y13?usp=sharing
+
+Dataset e Checkpoints: https://drive.google.com/drive/folders/1acCAM0Y8VAnCCk3LX1NxqK-SqwqOKshC?usp=sharing
+
+Vídeo: https://youtu.be/KKRsusyOCOQ
